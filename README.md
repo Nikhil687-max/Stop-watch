@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # Stop-Watch
 # Stop-Watch
 # todo-list
+# Stop-Watch
