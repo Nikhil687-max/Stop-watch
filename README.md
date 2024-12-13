@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 # Stop-Watch
 # todo-list
 # Stop-Watch
+# Stop-watch
